@@ -24,7 +24,7 @@
     "Placement_Status": "Placed",
     "Company": "Accenture",
     "Package_LPA": 7.1,
-    "Skill": "Python"
+    "Skill": "Power BI"
   },
   {
     "Student_ID": "S004",
@@ -42,14 +42,14 @@
     "Placement_Status": "Not Placed",
     "Company": "-",
     "Package_LPA": 0,
-    "Skill": "Power BI"
+    "Skill": "Python"
   },
   {
     "Student_ID": "S006",
     "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "Cognizant",
+    "Company": "TCS",
     "Package_LPA": 6,
     "Skill": "SQL"
   },
@@ -58,9 +58,9 @@
     "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "TCS",
+    "Company": "Infosys",
     "Package_LPA": 6.5,
-    "Skill": "Python"
+    "Skill": "Power BI"
   },
   {
     "Student_ID": "S008",
@@ -76,27 +76,27 @@
     "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "Infosys",
+    "Company": "Wipro",
     "Package_LPA": 5.5,
-    "Skill": "SQL"
+    "Skill": "Python"
   },
   {
     "Student_ID": "S010",
     "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "Wipro",
+    "Company": "Cognizant",
     "Package_LPA": 5,
-    "Skill": "Power BI"
+    "Skill": "SQL"
   },
   {
     "Student_ID": "S011",
     "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "Accenture",
+    "Company": "TCS",
     "Package_LPA": 7.4,
-    "Skill": "Python"
+    "Skill": "Power BI"
   },
   {
     "Student_ID": "S012",
@@ -105,65 +105,65 @@
     "Placement_Status": "Not Placed",
     "Company": "-",
     "Package_LPA": 0,
-    "Skill": "SQL"
+    "Skill": "Communication"
   },
   {
     "Student_ID": "S013",
-    "Branch": "AI&DS",
+    "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "TCS",
-    "Package_LPA": 5.8,
+    "Company": "Accenture",
+    "Package_LPA": 6.1,
     "Skill": "Python"
   },
   {
     "Student_ID": "S014",
-    "Branch": "AI&DS",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Infosys",
-    "Package_LPA": 5.6,
-    "Skill": "SQL"
-  },
-  {
-    "Student_ID": "S015",
-    "Branch": "AI&DS",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Accenture",
-    "Package_LPA": 6.4,
-    "Skill": "Power BI"
-  },
-  {
-    "Student_ID": "S016",
-    "Branch": "AI&DS",
-    "Year": 2026,
-    "Placement_Status": "Not Placed",
-    "Company": "-",
-    "Package_LPA": 0,
-    "Skill": "Communication"
-  },
-  {
-    "Student_ID": "S017",
-    "Branch": "AI&DS",
+    "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Placed",
     "Company": "Wipro",
-    "Package_LPA": 5.1,
-    "Skill": "Python"
-  },
-  {
-    "Student_ID": "S018",
-    "Branch": "AI&DS",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Cognizant",
     "Package_LPA": 5.9,
     "Skill": "SQL"
   },
   {
+    "Student_ID": "S015",
+    "Branch": "CSE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S016",
+    "Branch": "CSE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 6.8,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S017",
+    "Branch": "CSE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Infosys",
+    "Package_LPA": 5.4,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S018",
+    "Branch": "CSE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 7,
+    "Skill": "SQL"
+  },
+  {
     "Student_ID": "S019",
-    "Branch": "AI&DS",
+    "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Not Placed",
     "Company": "-",
@@ -172,232 +172,205 @@
   },
   {
     "Student_ID": "S020",
-    "Branch": "AI&DS",
+    "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "TCS",
-    "Package_LPA": 6.1,
-    "Skill": "Python"
-  },
-  {
-    "Student_ID": "S021",
-    "Branch": "AI&DS",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Infosys",
-    "Package_LPA": 5.7,
+    "Company": "Cognizant",
+    "Package_LPA": 6.3,
     "Skill": "Communication"
   },
   {
-    "Student_ID": "S022",
-    "Branch": "AI&DS",
+    "Student_ID": "S021",
+    "Branch": "CSE",
     "Year": 2026,
-    "Placement_Status": "Not Placed",
-    "Company": "-",
-    "Package_LPA": 0,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 6.7,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S022",
+    "Branch": "CSE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Infosys",
+    "Package_LPA": 5.6,
     "Skill": "SQL"
   },
   {
     "Student_ID": "S023",
-    "Branch": "AI&DS",
+    "Branch": "CSE",
     "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Wipro",
-    "Package_LPA": 4.8,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
     "Skill": "Power BI"
   },
   {
     "Student_ID": "S024",
-    "Branch": "AI&DS",
+    "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "Accenture",
-    "Package_LPA": 6.3,
-    "Skill": "Python"
+    "Company": "Wipro",
+    "Package_LPA": 7.2,
+    "Skill": "Communication"
   },
   {
     "Student_ID": "S025",
-    "Branch": "ECE",
+    "Branch": "CSE",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "TCS",
-    "Package_LPA": 4.9,
+    "Company": "Cognizant",
+    "Package_LPA": 6,
     "Skill": "Python"
   },
   {
     "Student_ID": "S026",
-    "Branch": "ECE",
+    "Branch": "AI&DS",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "Infosys",
-    "Package_LPA": 4.7,
+    "Company": "TCS",
+    "Package_LPA": 5.8,
     "Skill": "SQL"
   },
   {
     "Student_ID": "S027",
-    "Branch": "ECE",
+    "Branch": "AI&DS",
     "Year": 2026,
-    "Placement_Status": "Not Placed",
-    "Company": "-",
-    "Package_LPA": 0,
-    "Skill": "Communication"
+    "Placement_Status": "Placed",
+    "Company": "Infosys",
+    "Package_LPA": 5.6,
+    "Skill": "Power BI"
   },
   {
     "Student_ID": "S028",
-    "Branch": "ECE",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Wipro",
-    "Package_LPA": 4.5,
-    "Skill": "Python"
-  },
-  {
-    "Student_ID": "S029",
-    "Branch": "ECE",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Cognizant",
-    "Package_LPA": 5,
-    "Skill": "SQL"
-  },
-  {
-    "Student_ID": "S030",
-    "Branch": "ECE",
-    "Year": 2026,
-    "Placement_Status": "Not Placed",
-    "Company": "-",
-    "Package_LPA": 0,
-    "Skill": "Power BI"
-  },
-  {
-    "Student_ID": "S031",
-    "Branch": "ECE",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "TCS",
-    "Package_LPA": 5.2,
-    "Skill": "Communication"
-  },
-  {
-    "Student_ID": "S032",
-    "Branch": "ECE",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Infosys",
-    "Package_LPA": 4.6,
-    "Skill": "Python"
-  },
-  {
-    "Student_ID": "S033",
-    "Branch": "ECE",
-    "Year": 2026,
-    "Placement_Status": "Not Placed",
-    "Company": "-",
-    "Package_LPA": 0,
-    "Skill": "SQL"
-  },
-  {
-    "Student_ID": "S034",
-    "Branch": "ECE",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Wipro",
-    "Package_LPA": 4.3,
-    "Skill": "Power BI"
-  },
-  {
-    "Student_ID": "S035",
-    "Branch": "ECE",
+    "Branch": "AI&DS",
     "Year": 2026,
     "Placement_Status": "Placed",
     "Company": "Accenture",
-    "Package_LPA": 5.1,
-    "Skill": "Python"
-  },
-  {
-    "Student_ID": "S036",
-    "Branch": "EEE",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "TCS",
-    "Package_LPA": 4.2,
-    "Skill": "Python"
-  },
-  {
-    "Student_ID": "S037",
-    "Branch": "EEE",
-    "Year": 2026,
-    "Placement_Status": "Not Placed",
-    "Company": "-",
-    "Package_LPA": 0,
-    "Skill": "SQL"
-  },
-  {
-    "Student_ID": "S038",
-    "Branch": "EEE",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Infosys",
-    "Package_LPA": 4,
+    "Package_LPA": 6.4,
     "Skill": "Communication"
   },
   {
-    "Student_ID": "S039",
-    "Branch": "EEE",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Wipro",
-    "Package_LPA": 4.1,
-    "Skill": "Python"
-  },
-  {
-    "Student_ID": "S040",
-    "Branch": "EEE",
+    "Student_ID": "S029",
+    "Branch": "AI&DS",
     "Year": 2026,
     "Placement_Status": "Not Placed",
     "Company": "-",
     "Package_LPA": 0,
-    "Skill": "Power BI"
+    "Skill": "Python"
   },
   {
-    "Student_ID": "S041",
-    "Branch": "EEE",
+    "Student_ID": "S030",
+    "Branch": "AI&DS",
     "Year": 2026,
     "Placement_Status": "Placed",
     "Company": "Cognizant",
-    "Package_LPA": 4.4,
+    "Package_LPA": 5.1,
     "Skill": "SQL"
   },
   {
-    "Student_ID": "S042",
-    "Branch": "EEE",
-    "Year": 2026,
-    "Placement_Status": "Not Placed",
-    "Company": "-",
-    "Package_LPA": 0,
-    "Skill": "Communication"
-  },
-  {
-    "Student_ID": "S043",
-    "Branch": "EEE",
+    "Student_ID": "S031",
+    "Branch": "AI&DS",
     "Year": 2026,
     "Placement_Status": "Placed",
     "Company": "TCS",
-    "Package_LPA": 4.3,
-    "Skill": "Python"
-  },
-  {
-    "Student_ID": "S044",
-    "Branch": "EEE",
-    "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Infosys",
-    "Package_LPA": 3.9,
+    "Package_LPA": 5.9,
     "Skill": "Power BI"
   },
   {
-    "Student_ID": "S045",
-    "Branch": "EEE",
+    "Student_ID": "S032",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S033",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 6.1,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S034",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 5.7,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S035",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S036",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 4.8,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S037",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Infosys",
+    "Package_LPA": 6.3,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S038",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 5.5,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S039",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S040",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Cognizant",
+    "Package_LPA": 6,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S041",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 5.4,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S042",
+    "Branch": "AI&DS",
     "Year": 2026,
     "Placement_Status": "Not Placed",
     "Company": "-",
@@ -405,26 +378,125 @@
     "Skill": "SQL"
   },
   {
-    "Student_ID": "S046",
-    "Branch": "EEE",
+    "Student_ID": "S043",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 6.6,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S044",
+    "Branch": "AI&DS",
     "Year": 2026,
     "Placement_Status": "Placed",
     "Company": "Wipro",
-    "Package_LPA": 4,
+    "Package_LPA": 5,
     "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S045",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Cognizant",
+    "Package_LPA": 6.2,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S046",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 6,
+    "Skill": "SQL"
   },
   {
     "Student_ID": "S047",
     "Branch": "AI&DS",
     "Year": 2026,
-    "Placement_Status": "Placed",
-    "Company": "Cognizant",
-    "Package_LPA": 5.4,
-    "Skill": "SQL"
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Power BI"
   },
   {
     "Student_ID": "S048",
     "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 5.8,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S049",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 6.5,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S050",
+    "Branch": "AI&DS",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Cognizant",
+    "Package_LPA": 6.2,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S051",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 4.9,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S052",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Infosys",
+    "Package_LPA": 4.7,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S053",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S054",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 4.5,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S055",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Cognizant",
+    "Package_LPA": 5,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S056",
+    "Branch": "ECE",
     "Year": 2026,
     "Placement_Status": "Not Placed",
     "Company": "-",
@@ -432,21 +504,399 @@
     "Skill": "Communication"
   },
   {
-    "Student_ID": "S049",
-    "Branch": "CSE",
+    "Student_ID": "S057",
+    "Branch": "ECE",
     "Year": 2026,
     "Placement_Status": "Placed",
-    "Company": "Cognizant",
-    "Package_LPA": 6.1,
+    "Company": "Infosys",
+    "Package_LPA": 5.2,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S058",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 4.6,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S059",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
     "Skill": "Power BI"
   },
   {
-    "Student_ID": "S050",
+    "Student_ID": "S060",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Cognizant",
+    "Package_LPA": 4.3,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S061",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 5.1,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S062",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Infosys",
+    "Package_LPA": 4.8,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S063",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S064",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 5,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S065",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Cognizant",
+    "Package_LPA": 4.9,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S066",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S067",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Infosys",
+    "Package_LPA": 4.4,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S068",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 5.2,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S069",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 5.1,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S070",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S071",
     "Branch": "ECE",
     "Year": 2026,
     "Placement_Status": "Placed",
     "Company": "TCS",
     "Package_LPA": 4.8,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S072",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S073",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 4.9,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S074",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 5.1,
     "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S075",
+    "Branch": "ECE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S076",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 4.2,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S077",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S078",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 4,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S079",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 4.1,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S080",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S081",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 4.4,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S082",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S083",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 4.3,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S084",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 3.9,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S085",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S086",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 4,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S087",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Infosys",
+    "Package_LPA": 4.5,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S088",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S089",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 4.2,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S090",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S091",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 4.1,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S092",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S093",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 4.4,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S094",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 4.2,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S095",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S096",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 4,
+    "Skill": "Communication"
+  },
+  {
+    "Student_ID": "S097",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Python"
+  },
+  {
+    "Student_ID": "S098",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 4.3,
+    "Skill": "SQL"
+  },
+  {
+    "Student_ID": "S099",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Not Placed",
+    "Company": "-",
+    "Package_LPA": 0,
+    "Skill": "Power BI"
+  },
+  {
+    "Student_ID": "S100",
+    "Branch": "EEE",
+    "Year": 2026,
+    "Placement_Status": "Placed",
+    "Company": "Cognizant",
+    "Package_LPA": 4.2,
+    "Skill": "Communication"
   }
 ]
